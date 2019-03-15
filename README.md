@@ -1,4 +1,5 @@
 ##How to Clone
+
 After git clone repository you have to install npm in the directory:
 
 `npm install`
