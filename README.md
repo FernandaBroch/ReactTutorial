@@ -1,3 +1,10 @@
+##How to Clone
+After git clone repository you have to install npm in the directory:
+
+`npm install`
+then 
+`npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
